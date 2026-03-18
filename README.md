@@ -81,7 +81,7 @@ Objective:
 
 Recognize and classify hand gestures from images or live video.
 
-Can be used for gesture-controlled applications, e.g., sign language recognition or touchless interfaces.
+It can be used for gesture-controlled applications, e.g., sign language recognition or touchless interfaces.
 
 Dataset:
 
